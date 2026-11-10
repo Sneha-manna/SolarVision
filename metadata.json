@@ -1,0 +1,6 @@
+{
+  "name": "SolarVision - AI Solar Energy & Rooftop Analysis Platform",
+  "description": "Comprehensive solar energy prediction, rooftop potential assessment, financial savings calculator, and decision support platform with real NASA POWER data and ML forecasting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
